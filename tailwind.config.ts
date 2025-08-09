@@ -57,6 +57,12 @@ export default {
           border: "hsl(var(--sidebar-border))",
           ring: "hsl(var(--sidebar-ring))",
         },
+        brand: {
+          blue: "#00AAFF",
+          purple: "#8636F8",
+          orange: "#FF9421",
+          pink: "#F020B3",
+        },
       },
       borderRadius: {
         lg: "var(--radius)",
